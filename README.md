@@ -28,13 +28,13 @@ Análisis Exploratorio de Datos (EDA): Se ejecutó un análisis exploratorio de 
 
 Utilizando las siguientes herramientas:
 
-- ![Python]
-- ![Pandas]
-- ![Power BI]
-- ![NumPy]
-- ![GeoPandas]
-- ![Matplotlib]
-- ![Scikit-Learn]
+- Python
+- Pandas
+- Power BI
+- NumPy
+- GeoPandas
+- Matplotlib
+- Scikit-Learn
 
 # Estructura de navegación de los archivos:
 
